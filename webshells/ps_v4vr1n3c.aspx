@@ -38,7 +38,7 @@
     {
         string contents = console.Text;
 
-        // Compress Scrip
+        // Compress Script
 
         MemoryStream ms = new MemoryStream();
 
